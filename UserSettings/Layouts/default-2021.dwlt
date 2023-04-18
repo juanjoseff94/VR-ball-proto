@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2544
     height: 1341
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Console
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 141
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 24
+  controlID: 52
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 860
     width: 1415
     height: 431
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 123
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -562,9 +562,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.19884837, y: 3.1356761, z: 52.261654}
+    m_Target: {x: -4.753128, y: 0.32496414, z: 2.7269554}
     speed: 2
-    m_Value: {x: 0.19884837, y: 3.1356761, z: 52.261654}
+    m_Value: {x: -4.753128, y: 0.32496414, z: 2.7269554}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -611,13 +611,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11035301, y: 0.7002614, z: -0.111078836, w: 0.69655913}
+    m_Target: {x: 0.071120836, y: -0.8476574, z: 0.117430404, w: 0.5125546}
     speed: 2
-    m_Value: {x: 0.11018203, y: 0.7012785, z: -0.11123997, w: 0.69548124}
+    m_Value: {x: 0.07111788, y: -0.8476221, z: 0.117425516, w: 0.51253325}
   m_Size:
-    m_Target: 2.090449
+    m_Target: 4.417906
     speed: 2
-    m_Value: 2.090449
+    m_Value: 4.417906
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -705,7 +705,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -799,9 +799,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2afbffff726e0000f86e0000
+      m_SelectedIDs: d06e0000
+      m_LastClickedID: 28368
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -876,13 +876,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Input
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Unity\Ball_test
+  m_LastProjectPath: C:\Users\juanj\Documents\GitHub\VR-ball-proto
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f8700000
-    m_LastClickedID: 28920
+    m_SelectedIDs: fa700000
+    m_LastClickedID: 28922
     m_ExpandedIDs: 00000000466f0000486f00004a6f00004c6f00004e6f0000506f0000526f0000546f0000566f0000586f00005a6f00005c6f00005e6f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -942,15 +942,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300004c0200000c6f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: VR_actions
-      m_OriginalName: VR_actions
+      m_Name: KeyboardInputController
+      m_OriginalName: KeyboardInputController
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 28430
+      m_UserData: 3648
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
